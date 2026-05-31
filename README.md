@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/endless-whispers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Endless Whispers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-whispers/) |
+| **Get License** | [Obtain a Music License for Endless Whispers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-whispers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `20a83bec288292a7e465f17f46c198012602a9cbc6c0627076aded0f27e6ae8f` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

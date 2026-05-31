@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Endless Whispers
+
+This log tracks the cryptographic history and versioning for the song **Endless Whispers** (endless-whispers).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-01T03:10:31.714760 | `v1` | `20a83bec288292a7e465f17f46c198012602a9cbc6c0627076aded0f27e6ae8f` | `336438ae99db5b42cac6dba7d6ddb694f9ad422a6069c3615e6604f647006e77` | `2026-06-01_endless-whispers-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
