@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/endless-whispers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Endless Whispers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-whispers/) |
+| **Get License** | [Get a Licensing Quote for Endless Whispers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-whispers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 7120b1657210596fca2acaaecfb11bc9af14dde9
+> Midnight shadows dancing on your face
+> Every breath we take is slowing down the pace
+> Falling deeper in this candlelit embrace
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
